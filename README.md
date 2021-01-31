@@ -1,6 +1,6 @@
 # Hundred Xdi8
 
-由荊哲設計，Nyoeghau (Edward) 補充和 ttf 化的 ascii 希頂語字體。有可變 `ttf` 字體 (variable font) 與普通 `ttf` 兩種格式供選擇。
+由荊哲設計，Nyoeghau (Edward) 補充字形字重和字體化的希頂語字體。有可變 `ttf` 字體 (variable font) 與普通 `otf` 兩種格式供選擇。
 
 `Opentype` 特性：
 
